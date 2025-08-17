@@ -21,7 +21,7 @@
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Set Environment Variables**
+### ** Set Environment Variables**
 
 Create a `.env` file:
 
@@ -40,7 +40,7 @@ gemini_api_10=your_api_key_here
 LLM_TIMEOUT_SECONDS=240
 ```
 
-### **4️⃣ Run the App**
+### ** Run the App**
 
 ```bash
 python app.py
@@ -164,5 +164,6 @@ We welcome PRs!
 Licensed under **MIT** — Free to use, modify, and share.
 
 ---
+
 
 
