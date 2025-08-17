@@ -1,24 +1,6 @@
 
 # 🌟 **TDS Project 2: Data Analyst Agent** — *AI-Powered Data Sidekick*
 
-> **A smart, interactive, and beautiful way to analyze your data — powered by Google Generative AI & cutting-edge Python tools.**
-> **Repo:** [📂 View on GitHub](https://github.com/23f1000805/tds-project-2)
-
----
-
-## 📌 **Overview**
-
-The **TDS Data Analyst Agent** transforms raw data into **actionable insights** in minutes.
-Upload your dataset + questions, and get:
-
-* 📊 **Interactive Visualizations**
-* 🧠 **AI-Driven Insights**
-* ⚡ **Automated Analysis Workflows**
-
-Perfect for **business analysts, researchers, and data enthusiasts** who want **fast, accurate, and beautiful results** without manual crunching.
-
----
-
 ## ✨ **Features at a Glance**
 
 | Feature                     | Description                                        |
@@ -34,15 +16,6 @@ Perfect for **business analysts, researchers, and data enthusiasts** who want **
 ---
 
 ## 🚀 **Quick Start**
-
-### **1️⃣ Clone the Repository**
-
-```bash
-git clone https://github.com/23f1000805/tds-project-2.git
-cd tds-project-2
-```
-
-### **2️⃣ Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
@@ -191,4 +164,5 @@ We welcome PRs!
 Licensed under **MIT** — Free to use, modify, and share.
 
 ---
+
 
